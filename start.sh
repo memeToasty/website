@@ -1,0 +1,1 @@
+swipl server.pl --port=8080 --pidfile=http.pid --workers=4
